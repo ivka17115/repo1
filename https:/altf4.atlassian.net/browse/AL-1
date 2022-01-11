@@ -1,0 +1,6 @@
+ Generic support for BUG()
+
+  This respects the following config options:
+
+  CONFIG_BUG - emit BUG traps.  Nothing happens without this.
+  CONFIG_GENERIC_BUG - enable this code.
