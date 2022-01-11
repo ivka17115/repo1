@@ -1,0 +1,4 @@
+<country-codes xmlns="http://www.zoundry.com/schemas/2006/11/zcountrycodes.rng">
+
+    <country-code name="Afghanistan">af</country-code>
+    <country-code name="Albania">al</country-code>
