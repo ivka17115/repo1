@@ -1,0 +1,7 @@
+ <DuplicateArrayKey occurrences="3">
+      <code>'ZendAcl' =&gt; 'LaminasAcl'</code>
+      <code>'ZendRbac' =&gt; 'LaminasRbac'</code>
+      <code>'ZendRouter' =&gt; 'LaminasRouter'</code>
+    </DuplicateArrayKey>
+  </file>
+  <file src="src/Autoloader.php">
